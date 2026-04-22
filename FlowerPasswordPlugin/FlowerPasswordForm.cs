@@ -223,7 +223,7 @@ namespace FlowerPasswordPlugin
 			};
 
 			btnCancel = new Button { Text = T("取消", "Cancel"), AutoSize = true, MinimumSize = new Size(85, 35), FlatStyle = FlatStyle.System };
-			btnApply = new Button { Text = T("应用并保存", "Apply & Save"), AutoSize = true, MinimumSize = new Size(115, 35), FlatStyle = FlatStyle.System };
+			btnApply = new Button { Text = T("应用并保存", "Apply && Save"), AutoSize = true, MinimumSize = new Size(115, 35), FlatStyle = FlatStyle.System };
 			btnGenerate = new Button { Text = T("生成", "Generate"), AutoSize = true, MinimumSize = new Size(85, 35), FlatStyle = FlatStyle.System };
 
 			btnCancel.Click += (s, e) => Close();
