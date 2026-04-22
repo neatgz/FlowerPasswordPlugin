@@ -2,7 +2,7 @@
 
 A [FlowerPassword](https://github.com/kenmick/FlowerPassword) Plugin for [Keepass](https://keepass.info/).
 
-<img width="278" height="171" alt="PixPin_2026-04-22_13-37-16" src="https://github.com/user-attachments/assets/6946413f-84da-4e81-be89-d22ad45e6a72" />
+<img width="545" height="341" alt="image" src="https://github.com/user-attachments/assets/9e65a791-3fbd-4902-af15-27c882316c46" />
 
 
 ## Flower Password
